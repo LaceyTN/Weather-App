@@ -86,3 +86,14 @@ h5 {
   max-width: 400;
   margin-top: 10px;
 }
+.small {
+  text-align: center;
+  margin: auto;
+  font-size: 80%;
+  font-weight: 400;
+  color: black;
+}
+
+.a {
+  text-align: center;
+}
