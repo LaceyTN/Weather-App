@@ -1,7 +1,7 @@
 body {
+  background-image: url("../images/weather-background.jpg");
   font-family: "Dosis", sans-serif;
   margin-top: 75px;
-  background-color: #fffbe7;
 }
 
 .timeNow {
@@ -14,9 +14,7 @@ body {
 }
 
 .weather-app {
-  background-image: url("../images/cloudy-sky.jpg");
-
-  background-size: cover;
+  background-color: rgb(247, 250, 215);
   border: 5px solid #dadde1;
   padding: 20px;
   margin: 20px auto;
